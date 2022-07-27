@@ -18,6 +18,8 @@ If you follow these best practices it will help you to provide a good customer e
 - Apps should include links to user-facing documentation that describe how to set up and use the app.
 - Customers should be able to see what type of plan they have in the billing, profile, or account settings section of the app.
 - Customers should be able to install and use your app on both a personal account and an organization account. They should be able to view and manage the app on those accounts separately.
+- App should be easily understandable to the user so that they can work efficiently.
+- The user interface of App sould not include any complex training to use it.
 
 ## Plan management
 
